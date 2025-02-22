@@ -30,7 +30,7 @@ Proyek ini adalah sistem rekomendasi layanan publik yang menggunakan pendekatan 
 1. Clone repositori ini:
 
     ```sh
-    git clone <URL_REPOSITORI>
+    git clone https://github.com/imadenugraha/ai-layanan-masyarakat.git
     cd layanan-masyarakat
     ```
 
